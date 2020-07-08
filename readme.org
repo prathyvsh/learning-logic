@@ -1,0 +1,56 @@
+* Learning Logic
+
+A catalogue of books to learn logic from.
+
+** [[https://amzn.to/3fdvjCR][Logic - A Very Short Introduction]]
+Graham Priest
+
+** [[https://amzn.to/2ClTKPR][Introducing Logic]]
+Bill Mayblin, Dan Cryan, Sharon Shatil
+
+** [[https://amzn.to/2ZTLnmM][Beginning Logic]]
+Edward John Lemmon
+
+** [[https://amzn.to/3iItZtX][Introduction to Symbolic Logic]]
+Susanne Langer
+
+** [[https://amzn.to/2W2sM78][Elements of Logic]]
+Richard Whatley
+
+** [[https://amzn.to/2VYiSDr][Laws of Thought]]
+George Boole
+
+** [[https://amzn.to/38B34M3][Introduction to Mathematical Logic]]
+Alonzo Church
+
+** [[https://amzn.to/3gEYbUZ][The Elements of Mathematical Logic]]
+Paul Rosenbloom
+
+** [[https://amzn.to/3gFeUay][Mathematical Logic]]
+Stephen Kleene
+
+** [[https://amzn.to/3gBYTSS][Introduction to Logic]]
+Irving Copi
+
+** [[https://amzn.to/3iHiNgZ][A Mathematical Introduction to Logic]]
+Herbert Enderton
+
+** [[https://amzn.to/2O6kMNR][A Beginner Guide to Mathematical Logic]]
+Raymond Smullyan
+
+** [[https://amzn.to/323FnuF][Logic]]
+Wilfrid Hodges
+
+** [[https://amzn.to/31YJ84b][Introduction to Logic]]
+Patrick Suppes
+
+** [[https://openlogicproject.org/][Open Logic Text]]
+
+** [[https://www.logicmatters.net/ifl/][An Introduction to Formal Logic]]
+Peter Smith
+
+** [[https://dspace.lu.lv/dspace/handle/7/34986][Introduction to Mathematical Logic]]
+Vilnis Detlovs and Karlis Podnieks
+
+** [[https://dspace.lu.lv/dspace/handle/7/5306][What is Mathematics: Gödel’s Theorem and Around]]
+Karlis Podnieks
