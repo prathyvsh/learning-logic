@@ -41,6 +41,11 @@ Raymond Smullyan
 ** [[https://amzn.to/323FnuF][Logic]]
 Wilfrid Hodges
 
+** [[https://www.fecundity.com/logic/][For All X]]
+
+** [[https://amzn.to/3eak4dg][Logic Primer]]
+Colin Allen and Michael Hand
+
 ** [[https://amzn.to/31YJ84b][Introduction to Logic]]
 Patrick Suppes
 
