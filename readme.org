@@ -59,3 +59,6 @@ Vilnis Detlovs and Karlis Podnieks
 
 ** [[https://dspace.lu.lv/dspace/handle/7/5306][What is Mathematics: Gödel’s Theorem and Around]]
 Karlis Podnieks
+
+** [[https://amzn.to/3egu7gT][What is Mathematical Logic?]]
+ C. J. Ash, J. N. Crossley, C. J. Brickhill, J. C. Stillwell, N. H. Williams (1972)
