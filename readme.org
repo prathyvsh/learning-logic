@@ -1,5 +1,6 @@
 * Learning Logic
 
+* Books
 A catalogue of books to learn logic from.
 
 ** [[https://amzn.to/3fdvjCR][Logic - A Very Short Introduction]]
@@ -62,3 +63,22 @@ Karlis Podnieks
 
 ** [[https://amzn.to/3egu7gT][What is Mathematical Logic?]]
  C. J. Ash, J. N. Crossley, C. J. Brickhill, J. C. Stillwell, N. H. Williams (1972)
+ 
+ * Concepts
+
+** Syllogism
+** Enthymeme
+** Induction
+** Deduction
+** Abduction
+** Hypothesis
+** Sorites
+** Isotropy
+** Equivalence
+** Disjunction
+** Conjunction
+** Implication
+** Predicativity
+** Truthhood
+** Assertion
+** Evaluation
